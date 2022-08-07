@@ -6,4 +6,4 @@ make -j 24 中的24为电脑内核的两倍，根据自己电脑的内核情况�
 
 已在FFmpeg Compile提供了部分工具
 
-还需要MinGW+MSYS+（FFmpeg源码）
+还需要MinGW+MSYS +（FFmpeg源码）
