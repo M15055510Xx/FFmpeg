@@ -1,1 +1,1 @@
-FTClash Cloud客户端
+FTClash Cloud客户端工具
