@@ -9,3 +9,6 @@ Clash Verge Rev
 Android：
 
 Clash Meta for Android
+
+macOS：
+Clash Verge Rev
